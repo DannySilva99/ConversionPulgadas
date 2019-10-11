@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\bin\Debug\ConversionPulgadas.exe.config
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\bin\Debug\ConversionPulgadas.exe
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\bin\Debug\ConversionPulgadas.pdb
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\obj\Debug\ConversionPulgadas.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\obj\Debug\ConversionPulgadas.exe
+C:\Users\User\source\repos\ConversionPulgadas\ConversionPulgadas\obj\Debug\ConversionPulgadas.pdb

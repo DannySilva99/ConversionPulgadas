@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionPulgadas", "ConversionPulgadas\ConversionPulgadas.csproj", "{4069BF3B-264F-41D3-A61E-8367AAE0FBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4069BF3B-264F-41D3-A61E-8367AAE0FBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4069BF3B-264F-41D3-A61E-8367AAE0FBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4069BF3B-264F-41D3-A61E-8367AAE0FBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4069BF3B-264F-41D3-A61E-8367AAE0FBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0388BC7F-63E5-45A0-9F89-E4C1995A6D51}
+	EndGlobalSection
+EndGlobal
